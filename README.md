@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DaniKo**
 
-- 📫 How to reach me **E-mail: a.kuznetsov.js@gmail.com; Telegram: @ArtyKuznetsov**
+- 📫 You can reach me: **E-mail: a.kuznetsov.js@gmail.com; Telegram: @ArtyKuznetsov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
