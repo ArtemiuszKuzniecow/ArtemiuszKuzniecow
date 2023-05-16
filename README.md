@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working in a **DaniKo** company
+- 🔭 I’m currently working in a **Simourg** company
 
 - 📫 You can contact me using: **E-mail: a.kuznetsov.js@gmail.com; Telegram: @ArtyKuznetsov**
 
