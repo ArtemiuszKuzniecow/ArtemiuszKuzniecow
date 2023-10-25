@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">A passionate frontend developer (React, Vue.js) from Kazakhstan</h3>
+<h3 align="center">Frontend developer (React, Vue.js, TypeScript). Looking for a job. I speak english. Mówię po polsku.</h3>
 
 - 🔭 I’m currently working in a [Simourg company](https://www.simourg.com/)
 
