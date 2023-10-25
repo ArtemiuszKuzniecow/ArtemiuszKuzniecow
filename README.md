@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working in a [Simourg company](https://www.simourg.com/)
 
-- 📫 You can contact me using: E-mail: a.kuznetsov.js@gmail.com; Telegram: @ArtyKuznetsov. Or just text me in LinkedIn **https://www.linkedin.com/in/kuznetsov-artem/**
+- 📫 You can contact me using: <br />
+- E-mail: a.kuznetsov.js@gmail.com; <br />
+- Telegram: @ArtyKuznetsov. <br />
+- Viber: +48 731 915 600 <br />
+- Or just text me in LinkedIn **https://www.linkedin.com/in/kuznetsov-artem/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
