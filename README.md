@@ -7,7 +7,7 @@
 - E-mail: a.kuznetsov.js@gmail.com; <br />
 - Telegram: @ArtyKuznetsov. <br />
 - WhatsApp: +7 705 814 10 69
-- Or just text me in LinkedIn **https://www.linkedin.com/in/kuznetsov-artem/**
+- Or just text me in LinkedIn **kuznetsov-artem/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
