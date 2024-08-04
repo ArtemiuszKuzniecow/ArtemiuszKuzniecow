@@ -8,7 +8,7 @@
 - 📫 You can contact me using: <br />
 - E-mail: a.kuznetsov.js@gmail.com; <br />
 - Telegram: @ArtyKuznetsov. <br />
-- WhatsApp: +7 705 814 10 69
+- WhatsApp/Viber/Phone: +381 65 9970 992
 - Or just text me in LinkedIn **[kuznetsov-artem](https://www.linkedin.com/in/kuznetsov-artem/)**
 
 <h3 align="left">Languages and Tools:</h3>
