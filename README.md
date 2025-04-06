@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">Frontend developer (React, Vue.js, TypeScript). Looking for a job. I speak english. Mówię po polsku.</h3>
 
-- 🔭 I’m currently working in a [Omnis](https://omnistec.kz/)
+- 🔭 I’m currently working in a [EVA.ai](https://eva.ai/)
 
 - <strong>My [CV](https://artemiuszkuzniecow.github.io/)</strong>
 
